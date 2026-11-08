@@ -2,7 +2,7 @@
 
 Membuat PCB baseboard 2 layer untuk modul WeAct Black Pill STM32F411CEU6.  Skematik sudah disediakan dan tidak boleh diubah. Yang dikerjakan adalah penempatan komponen, penggambaran outline papan, routing, dan penyiapan berkas fabrikasi.
 
-**Dikerjakan sendiri-sendiri.**
+
 
 ---
 
