@@ -1,6 +1,7 @@
 # Blackpill STM32F411CEU6 V5 Baseboard Design
 
-![3D Render KiCad](./assets/3d_render.png) <!-- Ekspor foto 3D Viewer KiCad & upload di sini -->
+<img width="750" height="409" alt="LAYOUT PCB" src="https://github.com/user-attachments/assets/7ec1422d-31ae-4948-96fe-3c41487537c4" />
+
 
 ## 📌 Deskripsi Proyek
 Desain modul/baseboard PCB untuk mikrokontroler STM32F411CEU6 (Blackpill Core Board) menggunakan **KiCad**. Proyek ini mencakup perancangan skematik, tata letak jalur PCB 2-layer, serta pembuatan berkas manufaktur (Gerber).
@@ -19,7 +20,8 @@ Desain modul/baseboard PCB untuk mikrokontroler STM32F411CEU6 (Blackpill Core Bo
 - `gerber.zip`   : Berkas manufaktur siap cetak (JLCPCB / PCBWay)
 
 ## 📸 Skematik & Layout PCB
-*(Tambahkan gambar tangkapan layar skematik dan layout PCB di sini)*
+<img width="811" height="315" alt="DEPAN BELAKANG" src="https://github.com/user-attachments/assets/4fb4c306-c56d-4b50-a84b-9e0738f14b86" />
+
 
 ## 🚀 Pengujian & Manufaktur
 - [x] Design Rules Check (DRC) KiCad: **0 Errors / 0 Warnings**
